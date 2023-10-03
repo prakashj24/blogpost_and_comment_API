@@ -1,6 +1,6 @@
 # blogpost_and_comment_API
 
-* An API to put a blog post and corresponding comment with CRUD functionality and mapping with each other 
+* An API with CRUD functionality to put a blog post and comment. 
 * Pagination and Sorting for API's
 * Login/Signin and Signup
 * REST API exception handling
